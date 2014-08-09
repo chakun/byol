@@ -38,3 +38,6 @@ Icon
 prompt.c~
 .prompt.c.un~
 .prompt.c.swp
+*.c~
+.parsing.c.un~
+.parsing.c.swp
