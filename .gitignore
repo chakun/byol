@@ -41,3 +41,5 @@ prompt.c~
 *.c~
 .parsing.c.un~
 .parsing.c.swp
+.evaluation.c.un~
+.evaluation.c.swp
